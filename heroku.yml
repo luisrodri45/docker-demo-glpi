@@ -1,5 +1,5 @@
 build:
-services:
+
 #MariaDB Container
   mariadb:
     image: mariadb:10.7
