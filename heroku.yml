@@ -1,5 +1,4 @@
 build:
-docker:
 services:
 #MariaDB Container
   mariadb:
